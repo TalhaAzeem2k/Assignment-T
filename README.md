@@ -1,5 +1,5 @@
 # Step 1
-Chose a sample application (Hello World)
+Chose a sample application , here python is used 
 ## Step 2 and 3
 Create a Dockerfile 
 Dockerfile (Talha.dockerfile) contains the following commands:
